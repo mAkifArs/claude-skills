@@ -18,6 +18,7 @@ git clone https://github.com/YOUR_USERNAME/claude-skills ~/.claude/skills
 | Create Next.js App | `/create-next-app` | Scaffold a Next.js app with TypeScript + Tailwind |
 | Setup Tailwind | `/setup-tailwind` | Add Tailwind CSS to existing project |
 | Quick API | `/quick-api` | Create Express.js API with TypeScript |
+| React Best Practices | `/react-bp` | Review, reference, and refactor React code |
 
 ## Adding New Skills
 

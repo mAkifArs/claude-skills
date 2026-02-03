@@ -47,6 +47,14 @@ npm install -D react-scan
 - Add react-scan to development setup for visualizing unnecessary re-renders
 - Configure to run only in development mode
 
+### Zustand (global state management)
+```bash
+npm install zustand
+```
+- Create `src/store/` folder for store files
+- Create a sample store with TypeScript types
+- Lightweight, no boilerplate, no providers needed
+
 ## Folder structure to create:
 
 ```
@@ -62,7 +70,7 @@ src/
 ├── utils/               # Helper functions
 ├── types/               # TypeScript types/interfaces
 ├── constants/           # App-wide constants
-├── context/             # React Context providers
+├── store/               # Zustand stores
 ├── assets/              # Images, fonts, etc.
 └── __tests__/           # Unit tests
 ```

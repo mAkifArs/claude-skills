@@ -1,7 +1,6 @@
 ---
 name: create-next-app
 description: Create a new Next.js app with TypeScript
-invocation: /create-next-app
 ---
 
 # Create Next.js App with TypeScript

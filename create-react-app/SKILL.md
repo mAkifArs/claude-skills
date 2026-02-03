@@ -1,7 +1,6 @@
 ---
 name: create-react-app
 description: Create a new React app with TypeScript
-invocation: /create-react-app
 ---
 
 # Create React App with TypeScript

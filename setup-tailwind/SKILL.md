@@ -1,7 +1,6 @@
 ---
 name: setup-tailwind
 description: Add Tailwind CSS to an existing project
-invocation: /setup-tailwind
 ---
 
 # Add Tailwind CSS to Project

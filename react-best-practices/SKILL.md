@@ -1,11 +1,7 @@
 ---
 name: react-best-practices
 description: Review, reference, and refactor React code using best practices
-invocation: /react-bp
-aliases:
-  - /react-review
-  - /react-rules
-  - /react-refactor
+argument-hint: "[review|rules|refactor]"
 ---
 
 # React Best Practices
@@ -14,10 +10,10 @@ This skill reviews React code, provides best practice references, and suggests r
 
 ## Usage modes:
 
-- `/react-bp` - Review current file or component
-- `/react-bp review` - Full code review against all rules
-- `/react-bp rules` - Show relevant best practices
-- `/react-bp refactor` - Apply improvements automatically
+- `/react-best-practices` - Review current file or component
+- `/react-best-practices review` - Full code review against all rules
+- `/react-best-practices rules` - Show relevant best practices
+- `/react-best-practices refactor` - Apply improvements automatically
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 name: quick-api
 description: Create a quick Express.js API with TypeScript
-invocation: /quick-api
 ---
 
 # Create Express API with TypeScript
